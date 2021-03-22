@@ -1,4 +1,6 @@
 class Dog
-  attr_accessor :name, :breed, :weight
-  def initialize
 end
+
+fido=Dog.new
+rover=Dog.new
+rex=Dog.new
